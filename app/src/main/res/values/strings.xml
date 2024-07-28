@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="play_stop_button">Play</string>
+</resources>
